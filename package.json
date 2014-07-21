@@ -1,0 +1,12 @@
+{
+	"name": "node-api-rest-express4-example",
+	"version": "1.0.0",
+	"description": "Node API RESTful using express 4. Based on original project carlosazaustre/node-api-rest-example (https://github.com/carlosazaustre/node-api-rest-example)",
+	"dependencies": 
+	{
+		"express": "4.6.1",
+		"body-parser": "1.5.0",
+		"method-override": "2.1.1",
+		"mongoose": "3.6.11"
+	}
+}
